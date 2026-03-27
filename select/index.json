@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Light",
+  "base_artist": "Perfume",
+  "createdAt": "2026-03-27T01:08:26.343622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Caught The Light",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_You_Caught_The_Light_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Turn Out the Light and) Love Me Tonight",
+      "artist": "Don Williams",
+      "has_synced": false,
+      "path": "select/02_(Turn_Out_the_Light_and)_Love_Me_Tonight_Don_Williams.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Turn Out The Light And) Love Me Tonight (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/03_(Turn_Out_The_Light_And)_Love_Me_Tonight_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Wynonna",
+      "has_synced": true,
+      "path": "select/04_I_Saw_The_Light_Wynonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Wynonna Judd",
+      "has_synced": true,
+      "path": "select/05_I_Saw_The_Light_Wynonna_Judd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Saw the Light",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/06_I_Saw_the_Light_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/07_I_Saw_The_Light_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Saw The Light",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/08_I_Saw_The_Light_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Light In Your Eyes",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/09_The_Light_In_Your_Eyes_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "See the Light",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/10_See_the_Light_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "At the Light",
+      "artist": "Lil Herb",
+      "has_synced": true,
+      "path": "select/11_At_the_Light_Lil_Herb.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In the Light",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/12_In_the_Light_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Light",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/13_The_Light_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn Out the Light",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/14_Turn_Out_the_Light_Lou_Reed.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Light",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_The_Light_Perfume.txt"
+    }
+  ]
+}
